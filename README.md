@@ -2,6 +2,76 @@
 
 ## Project Overview
 
+This repository showcases a Manual Testing project for the SauceDemo e-commerce application. It demonstrates my understanding of the Software Testing Life Cycle (STLC) through requirement analysis, test planning, test scenario creation, test case design, test execution, bug reporting, and test summary documentation.
+
+## Application Under Test
+
+- Website: https://www.saucedemo.com/
+
+## Modules Tested
+
+- Login
+- Products
+- Shopping Cart
+- Checkout
+- Checkout Overview
+- Order Confirmation
+- Logout
+
+## Project Deliverables
+
+- Requirement Analysis
+- Application Analysis
+- Test Plan
+- Test Scenarios
+- Test Cases
+- Test Data
+- Bug Report
+- Test Execution Report
+- Test Summary Report
+- Screenshots
+- Defect Screenshots
+
+## Tools Used
+
+- Microsoft Excel
+- Microsoft Word
+- Google Chrome
+- Git
+- GitHub
+
+## Test Summary
+
+| Metric | Count |
+|--------|------:|
+| Total Test Cases | 35 |
+| Passed | 27 |
+| Failed | 8 |
+| Defects Reported | 8 |
+
+## Repository Structure
+
+```
+Project-01-Ecommerce-Manual-Testing
+├── Requirement
+├── Application Analysis
+├── Test Plan
+├── Test Scenarios
+├── Test Cases
+├── Test Data
+├── Bug Report
+├── Execution Report
+├── Test Summary
+├── Screenshots
+└── Defect Screenshots
+```
+
+## Author
+
+**Yashwanth Y V**# SauceDemo Manual Testing Portfolio
+
+## Project Overview
+
 This project demonstrates my Manual Testing skills by testing the SauceDemo e-commerce application. It includes test planning, test scenarios, test cases, test execution, bug reporting, and test summary documentation.
 
 ## Application Under Test
